@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Local settings (.vs)",
-    "\\Local settings (.vs)\\weather-app",
-    "\\Local settings (.vs)\\weather-app\\FileContentIndex",
     "\\src",
-    "\\src\\components"
+    "\\src\\styles"
   ],
-  "SelectedNode": "\\Local settings (.vs)\\weather-app\\FileContentIndex\\631238ca-898d-4423-9dfa-a7b7e584984d.vsidx",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
